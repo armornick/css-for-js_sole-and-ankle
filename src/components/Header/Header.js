@@ -38,6 +38,7 @@ const Nav = styled.nav`
   display: flex;
   gap: 48px;
   padding-block: 26px;
+  padding-inline: 48px;
 `;
 
 const NavLink = styled.a`
